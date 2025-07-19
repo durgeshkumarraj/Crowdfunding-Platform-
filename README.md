@@ -98,12 +98,17 @@ API runs at: http://localhost:8000
 You can insert screenshots here:
 
 Home Page
+<img width="1920" height="1080" alt="Screenshot (97)" src="https://github.com/user-attachments/assets/0b022d9a-11a9-4a80-af94-29b12a8e13d3" />
+
 
 Campaign Details
 
 Create Campaign Page
 
+<img width="1920" height="1080" alt="Screenshot (91)" src="https://github.com/user-attachments/assets/6927747b-b880-4999-ba38-b816bd9e42ff" />
+
 Responsive Navbar
+<img width="1920" height="1080" alt="Screenshot (97)" src="https://github.com/user-attachments/assets/c3f06629-d87b-4aa5-bb73-7df382a099ac" />
 
 🌐 Environment Variables
 You may need the following .env setup:
@@ -120,7 +125,7 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 📄 License
 MIT
 
-📬 Contact
+📬 Contact :8877923277
 🧑‍💻 Author: Durgesh Kumar
 
 🌐 GitHub: @durgeshkumarraj
